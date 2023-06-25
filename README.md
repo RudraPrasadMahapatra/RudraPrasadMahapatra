@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rudra-prasad-mahapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudra-prasad-mahapatra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rudra-prasad-mahapatra" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=13930&format=png" alt="rudra-prasad-mahapatra" height="30" width="40" /></a>
 <a href="https://fb.com/rudra prasad mahapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rudra prasad mahapatra" height="30" width="40" /></a>
 <a href="https://instagram.com/rudra_prasad_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rudra_prasad_1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/suitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="suitcoder" height="30" width="40" /></a>
