@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudraprasadmahapatra&label=Profile%20views&color=0e75b6&style=flat" alt="rudraprasadmahapatra" /> </p>
 
-- 🌱 I’m currently learning at **PwSkill**
+- 🌱 I’m currently learning at **PWSkills**
 
 - 📝 I regularly write articles on [https://suitcoder.in/](https://suitcoder.in/)
 
