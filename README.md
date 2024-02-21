@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning at **PWSkills**
 
-- 📝 I regularly write articles on [[https://suitcoder.in](https://mycoupons.co.in/)
+- 📝 I regularly write articles on [https://mycoupons.co.in/](https://mycoupons.co.in/)
 
 - 📫 How to reach me **mrudraprasad5@gmail.com**
 
