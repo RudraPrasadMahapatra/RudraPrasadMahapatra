@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudraprasadmahapatra&label=Profile%20views&color=0e75b6&style=flat" alt="rudraprasadmahapatra" /> </p>
 
-- 🌱 I’m currently learning at **PWSkills**
+- 🌱 I’m currently working as a Java Developer Trainee at **HulkHire Tech**
 
-- 📝 I regularly write articles on [https://mycoupons.co.in/](https://mycoupons.co.in/)
+- 📝 I regularly write articles on [https://linkedin.com/](https://www.linkedin.com/in/rudra-prasad-mahapatra/)
 
 - 📫 How to reach me **mrudraprasad5@gmail.com**
 
